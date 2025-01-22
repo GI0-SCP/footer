@@ -1,0 +1,141 @@
+.footer {
+    background-color: #001427;
+    color: white;
+    padding: 50px 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer-container {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-subscribe {
+    text-align: center;
+    padding: 10px;
+    background-color: #6cbce0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.subscribe-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+.footer-colorlib {
+margin-bottom: 15px;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+color: #ffffff;
+}
+
+.footer p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    line-height: 1.8;
+    color: #d9d9d9;
+}
+
+.footer-discover ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-discover li {
+    margin-bottom: 10px;
+}
+
+.footer-discover li {
+    color: #d9d9d9;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.footer-discover li:hover {
+
+    color: #353535;
+    cursor: pointer;
+}
+
+.footer-about ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-about li {
+    margin-bottom: 10px;
+}
+
+.footer-about li {
+    color: #d9d9d9;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.footer-about li:hover {
+
+    color: #353535;
+    cursor: pointer;
+}
+
+.footer-resource ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-resource li {
+    margin-bottom: 10px;
+}
+
+.footer-resource li {
+    color: #d9d9d9;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.footer-resource li:hover {
+
+    color: #353535;
+    cursor: pointer;
+}
+
+.subscribe-input {
+     padding: 10px; 
+     border: 1px solid #64dfdf;
+      border-radius: 5px; 
+      font-size: 16px; 
+    width: 250px;
+}
+
+.subscribe-button { 
+    padding: 10px 20px; 
+    background-color: #007bff; 
+    color: #fff; 
+    border: none; 
+    border-radius: 5px;
+     font-size: 16px; 
+     cursor: pointer; 
+     transition: background-color 0.3s; 
+    } 
+
+
+.subscribe-button:hover { 
+    background-color: #a9def9; 
+}
